@@ -1,0 +1,82 @@
+/*font and color of text for the whole page*/
+html {
+   font-family: Champagne, cursive;
+   color: gold;
+   text-align: center;
+   background-color: gray;
+}
+
+ /*sets the body*/
+body {
+   margin: 0px auto;
+   min-width: 320px;
+   max-width: 1620px;  
+}
+
+ /*makes the link with no decoration in boxes and highlight when hover*/
+ header > div a{
+   list-style: none;
+   list-style-image: none;
+   float: right;
+   font-size: 2em;
+}
+  
+header > div a{
+   text-decoration: none;
+   color: gold;
+   width:15%;
+   margin: 20px;
+}
+ 
+a:hover {
+   background-color:red;
+}
+
+a.active {
+   background-color: red;
+}
+
+h1 {
+   float: left;
+}
+
+section {
+ font-size: 2em;
+}
+
+section#left img {
+   display: block;
+   width: 45%;
+   float: right;
+}
+
+section#left {
+   display: block;
+   float: right;
+}
+
+section#right img {
+   display: block;
+   width: 45%;
+   float: left;
+}
+
+section#right {
+   display: block;
+   float: right;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   font-size: 1.3em;
+   line-height: 30px;
+   margin-bottom: 20px;
+}
+
+section > div {
+   margin-top: 100px;
+}
