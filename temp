@@ -1,17 +1,1 @@
-    <section id="left">
-        <img src="Photo1.jpg" alt="" />
-        <div>
-            Welcome to Ethan's Gym. Here at Ethan's Gym, we have top of the line equipment as well as a supportive community  
-            <br>
-            We try our best to keep a clean environment 
-        </div>
-    </section>
-    <section id="right">
-        <img src="Photo2.jpg" alt="" />
-        <div>
-            We also have personal trainers that can help you reach your desired goal! With many staff on duty at all times, there will always be someone to help you.
-            <br>
 
-        </div>
-    </section>
-    
